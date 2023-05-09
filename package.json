@@ -1,0 +1,14 @@
+{
+  "name": "application",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.32.17",
+  "devDependencies": {
+    "@cubejs-backend/mssql-driver": "^0.32.30",
+    "@cubejs-backend/server": "^0.32.31"
+  }
+}
